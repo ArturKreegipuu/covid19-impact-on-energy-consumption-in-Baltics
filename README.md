@@ -22,3 +22,6 @@ Lithuanian weather data: https://data.humdata.org/dataset/world-bank-climate-cha
 Estonian GDP growth: https://tradingeconomics.com/estonia/gdp-growth
 Latvian GDP growth: https://tradingeconomics.com/latvia/gdp-growth
 Lihtuanian GDP growth: https://tradingeconomics.com/lithuania/gdp-growth
+
+https://ourworldindata.org/covid-cases?country=IND~USA~GBR~CAN~DEU~FRA
+
