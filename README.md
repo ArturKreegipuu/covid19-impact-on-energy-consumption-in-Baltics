@@ -3,12 +3,13 @@
 
 ## Goal of the project
 
-The goald of the project is to find out how the covid 19 measurements such as lock down, shut down of schools, universities, commercial places etc has impacted the energy consumption in the Baltic countries. The project also investigates the factors that influenced energy consumption changes during the pandemic. This could include variables like GDP, travel restrictions, temperature, and more.
+The goal of the project is to find out how the COVID-19 measurements such as lockdown, shutdown of schools, universities, commercial places etc has impacted the energy consumption in the Baltic countries. The project also investigates the factors that influenced energy consumption changes during the pandemic. This could include variables like GDP, travel restrictions, temperature, and more.
 
 ## Provide a guide to the contents of the repository
+This repository contains preprocessed dataframes for GDP, daily mean temperature, cumulative COVID-19 deaths and energy consumption (MWh) for all the Baltic States (Estonia, Latvia and Lithuania). It also includes the documentation of step-by-step proccessing of the dataframes and also the visualization, which involves plots and graphs of the correlations between the different data.
 
 ## Explain how it is possible to take the code and replicate the same analysis that the authors have done
-
+When processing the data into neat dataframes, we took into consideration the factors of readability and simplicity of the outcome. We also standardized the data types, so it is easier to implement. 
 
 ## Sources and datasets: 
 
